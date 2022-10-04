@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there
+
+I‘m committed to Deep Learning and Applied Research on Deep Learning.
+
+Following my studies in Huazhong University of Science of Technology (HUST), and now I am working at a tech company.
+
+So, I think I am
+
+1. A software development engineer.
+
+2. **No One** in the programming world.
+
+3. Committed to Deep Learning research.
+
 
 <!--
 **kanchenhao/kanchenhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
