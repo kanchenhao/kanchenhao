@@ -4,7 +4,7 @@ I‘m committed to Deep Learning and Applied Research on Deep Learning.
 
 Following my studies in Huazhong University of Science of Technology (HUST), and now I am working at a tech company.
 
-So, I think I am
+So, I believe I am
 
 1. A software development engineer.
 
