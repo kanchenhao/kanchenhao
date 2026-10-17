@@ -1,16 +1,12 @@
 ### Hi there
 
-I‘m committed to Deep Learning and Applied Research on Deep Learning.
-
-Following my studies in Huazhong University of Science of Technology (HUST), and now I am working at a tech company.
+I‘m committed to AI world and working at one tech company.
 
 So, I believe I am
 
 1. A software development engineer.
 
 2. **No One** in the programming world.
-
-3. Committed to Deep Learning research.
 
 
 <!--
